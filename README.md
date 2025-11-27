@@ -7,4 +7,4 @@
 - OneAPI, IoT & Cloud/Edge 컴퓨팅 실습  
 - 협력 프로젝트: AI 모델 학습 → Edge 환경 배포 → Inference 시스템 구축
 
-- 
+  
